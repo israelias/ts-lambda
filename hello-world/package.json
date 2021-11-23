@@ -10,6 +10,7 @@
     "axios": "^0.21.1"
   },
   "scripts": {
+    "compile": "tsc",
     "test": "mocha tests/unit/",
     "integ-test": "mocha tests/integration/"
   },
